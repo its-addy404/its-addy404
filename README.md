@@ -14,7 +14,7 @@ Passionate about building scalable web applications and contributing to the deve
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=bypriyanshu31&style=flat-square&color=0d1117)
+![Profile Views](https://komarev.com/ghpvc/?username=its-addy404&style=flat-square&color=0d1117)
 
 </div>
 
@@ -93,9 +93,9 @@ I'm a Computer Science Engineering student dedicated to mastering full-stack web
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bypriyanshu31)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bypriyanshu31)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:24253011048@skf.edu.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/its-addy404)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moutrisha.kumar.fiem.cse24@teamfuture.in)
 
 </div>
 
