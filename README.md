@@ -71,11 +71,11 @@ I'm a Computer Science Engineering student dedicated to mastering full-stack web
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bypriyanshu31&show_icons=true&theme=dark&bg_color=0d1117&text_color=e0e0e0&icon_color=58a6ff&border_color=30363d&rank_icon=percentile)](https://github.com/bypriyanshu31)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bypriyanshu31&show_icons=true&theme=dark&bg_color=0d1117&text_color=e0e0e0&icon_color=58a6ff&border_color=30363d&rank_icon=percentile)](https://github.com/its-addy404)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bypriyanshu31&theme=dark&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b54&currStreakNum=e0e0e0&sideNums=e0e0e0&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e)](https://github.com/bypriyanshu31)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bypriyanshu31&theme=dark&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b54&currStreakNum=e0e0e0&sideNums=e0e0e0&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e)](https://github.com/its-addy404)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bypriyanshu31&layout=compact&theme=dark&bg_color=0d1117&text_color=e0e0e0&title_color=58a6ff&border_color=30363d)](https://github.com/bypriyanshu31)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bypriyanshu31&layout=compact&theme=dark&bg_color=0d1117&text_color=e0e0e0&title_color=58a6ff&border_color=30363d)](https://github.com/its-addy404)
 
 </div>
 
